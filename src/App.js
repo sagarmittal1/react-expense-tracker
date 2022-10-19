@@ -6,26 +6,26 @@ import NewExpense from './components/NewExpense/NewExpense';
 const DUMMY_EXPENSES = [
   {
     id: '11',
-    title: 'Macbook Pro M1 Chip',
-    amount: 1999,
-    date: new Date(2022, 1, 5),
+    title: 'Grocery for Diwali',
+    amount: 5000,
+    date: new Date(2022, 9, 20),
   },
   {
     id: '12',
-    title: 'iPhone 14',
-    amount: 599,
-    date: new Date(2022, 2, 5),
+    title: 'Mi Band 6',
+    amount: 2999,
+    date: new Date(2022, 2, 9),
   },
   {
     id: '13',
-    title: 'Apple watch',
-    amount: 299,
-    date: new Date(2022, 2, 28),
+    title: 'Birthday Party',
+    amount: 1500,
+    date: new Date(2022, 0, 5),
   },
   {
     id: '14',
-    title: 'OnePlus Nord 3',
-    amount: 1999,
+    title: 'OnePlus Nord 2',
+    amount: 30000,
     date: new Date(2021, 3, 5),
   },
 ];
