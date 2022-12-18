@@ -5,6 +5,8 @@ Live link - [https://react-expense-tracker-sagar.vercel.app/](https://react-expe
 ## Preview
 
 ![image](https://user-images.githubusercontent.com/54253848/196896881-492be5bd-b93b-4583-bb5e-a9209c4d1e46.png)
+![image](https://user-images.githubusercontent.com/54253848/208311998-9817e527-2f13-40ef-8f4a-dad6368288a2.png)
+
 
 ## File Structure
 ```
